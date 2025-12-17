@@ -11,9 +11,28 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
+// nose  
+fill (0,0,0)
+ellipse (100,100,40,40)
 
+//head
+fill (255,255,255)
+ellipse (186,82,150,150)
+
+//eye
+fill (0,0,0)
+ellipse (203,53,10,30)
   
+//neck
+fill (255,255,255)
+ellipse (184,188,20,100)
+
+//stomach
+fill (255,255,255)
+ellipse (155,279,100,100)
+
+//tail
+
 
 }
 
