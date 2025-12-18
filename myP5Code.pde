@@ -32,7 +32,54 @@ fill (255,255,255)
 ellipse (155,279,100,100)
 
 //tail
+fill (255,255,255)
+ellipse (244,282,100,10)
 
+// tail color
+fill (0,0,0)
+ellipse (206,280,20,20)
+
+// smile
+fill (0,0,0)
+arc(161,118,70,40,radians(0),radians(180))
+
+// leg 1
+fill (255,255,255)
+ellipse (170,347,20,100)
+
+// leg 2
+fill (255,255,255)
+ellipse (134,338,20,100)
+
+//shoe 1
+fill (255,255,255)
+ellipse (84,368,100,20)
+
+//shoe 2
+fill (255,255,255)
+ellipse (156,383,100,20)
+
+//collar
+fill (255,0,13)
+rect (160,170,50,10)
+
+//ear
+fill(255,255,255)
+ellipse (251,104,30,100)
+
+//inner ear
+fill (0,0,0)
+ellipse (247,99, 15,50)
+
+//arm
+fill (255,255,255)
+ellipse (173,263,20,50)
+
+//fingers
+fill (0,0,0)
+line (171,276,168, 290)
+fill (0,0,0)
+line (175,276,172, 290)
 
 }
 
